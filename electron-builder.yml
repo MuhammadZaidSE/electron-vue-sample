@@ -1,0 +1,4 @@
+appId: demoApp
+publish:
+    provider: github
+token: $$YOURTOKEN$$
